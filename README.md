@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--helix-test-2--dilectiss.hlx.page/
+- Preview: https://main--helix-sidekick--dilectiss.hlx.page/
 - Live: https://main--helix-sidekick--dilectiss.hlx.live/
 
 ## Installation
