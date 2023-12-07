@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-sidekick--dilectiss.hlx.page/
+- Live: https://main--helix-sidekick--dilectiss.hlx.live/
 
 ## Installation
 
